@@ -1,0 +1,6 @@
+{
+  "name": "Data Classification Using Machine Learning",
+  "description": "An interactive Machine Learning studio for data classification. Explore real datasets, visualize preprocessing, train a KNN classifier with custom K, view evaluations, and download a complete Python/Scikit-learn portfolio project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
