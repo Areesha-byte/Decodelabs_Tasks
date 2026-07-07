@@ -1,0 +1,6 @@
+{
+  "name": "Python Rule-Based Chatbot",
+  "description": "An interactive learning guide and terminal emulator for a Rule-Based Python Chatbot designed for an AI internship project, demonstrating the IPO model, control flow, keyword matching, and conceptual bridges to vector embeddings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
