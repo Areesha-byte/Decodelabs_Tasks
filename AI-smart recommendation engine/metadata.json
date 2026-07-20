@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Recommendation Engine",
+  "description": "A futuristic AI-powered recommendation system visualizing content similarity vectors, user-based collaborative ratings, and rule matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
